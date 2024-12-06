@@ -1,2 +1,2 @@
-main html file : vscmyself.html
+main html file : index.html
 main css file : style.css
