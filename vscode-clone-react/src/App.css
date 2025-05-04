@@ -1,0 +1,143 @@
+body {
+  background-color: #0e0e0e;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: left;
+  color: #e9eaeb;
+}
+
+.navigation {
+  justify-content: space-between;
+  display: flex;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-top: 20px;
+}
+
+.hehe {
+  font: 20px Arial;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding-bottom: 10px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #e9eaeb;
+}
+
+.uupar {
+  text-decoration: none;
+  color: #9ba3b4;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  padding: 10px;
+}
+
+a.uupar:hover {
+  color: #e3e3e3;
+}
+
+.beech {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+h1.power {
+  color: #e9eaeb;
+  font-weight: 600;
+  margin-top: 15px;
+  font-size: 56px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+span.yoyo {
+  color: #e9eaeb;
+  border: 0.7px solid;
+  border-color: #3e3c3c9e;
+  padding: 10px;
+  color: #9ba3b4;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0.04);
+  margin-left: 10px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.uupardownload {
+  background-color: #0078d4;
+  color: #e9eaeb;
+  height: 30px;
+  width: 100px;
+  border: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+button.theme-switch {
+  border: none;
+  height: 10px;
+  width: 10px;
+  background-color: #0e0e0e;
+}
+
+.searchs {
+  border: none;
+  height: 20px;
+  width: 150px;
+  background-color: #0e0e0e;
+  color: #e9eaeb;
+  border: 0.7px solid;
+  border-color: #3e3c3c9e;
+  border-radius: 5px;
+}
+
+button.neechedownload {
+  background-color: #0078d4;
+  border: none;
+  color: #e9eaeb;
+  font-size: 18px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 5px;
+  font-weight: 600;
+}
+
+button.neechedownload:hover {
+  background-color: #0069b9;
+  cursor: pointer;
+}
+
+p.whitening {
+  color: #e9eaeb;
+}
+
+p.subtitlish {
+  color: #9ba3b4;
+  font-size: 11px;
+}
+
+p.banner {
+  font-size: 14px;
+  color: #9ba3b4;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  text-align: center;
+  font-weight: 500;
+}
+
+a.banners {
+  color: #4daafc;
+}
+
+span.innu {
+  padding-bottom: 100px;
+}
